@@ -1,0 +1,17 @@
+<NODES>
+X
+Y
+Z
+
+<EDGES>
+X -- Y
+X -> Z
+Z -> Y
+
+<TASK>
+treatment: X
+outcome: Y
+
+<CONSTRAINTS>
+I: 
+R: Z

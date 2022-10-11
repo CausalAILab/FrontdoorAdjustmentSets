@@ -1,0 +1,26 @@
+<NODES>
+X
+Y
+A
+B
+C
+D
+
+<EDGES>
+X -> A
+A -> B
+X -- Y
+A -> D
+D -> Y
+B -> Y
+C -> Y
+A -> C
+D -- X
+
+<TASK>
+treatment: X
+outcome: Y
+
+<CONSTRAINTS>
+I: B
+R: A,B,C,D
