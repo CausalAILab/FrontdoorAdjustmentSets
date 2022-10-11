@@ -1,4 +1,4 @@
-# Finding and Listing Front-door Adjustment Sets
+# Front-door Adjustment Sets
 
 This repository contains the code for the paper "Finding and Listing Front-door Adjustment Sets" by Hyunchai Jeong, Jin Tian, and Elias Bareinboim.
 
@@ -7,8 +7,8 @@ This repository contains the code for the paper "Finding and Listing Front-door 
 Please run the following commands to install the package:
 
 ```
-git clone https://github.com/jeong10/frontdoor_adjustment_sets.git
-cd frontdoor_adjustment_sets
+git clone https://github.com/CausalAILab/FrontdoorAdjustmentSets.git
+cd FrontdoorAdjustmentSets
 pip install -r requirements.txt
 pip install -e .
 ```
