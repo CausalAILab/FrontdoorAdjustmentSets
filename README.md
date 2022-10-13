@@ -1,6 +1,6 @@
 # Front-door Adjustment Sets
 
-This repository contains the code for the paper "Finding and Listing Front-door Adjustment Sets" by Hyunchai Jeong, Jin Tian, and Elias Bareinboim.
+This repository contains the code for the paper ["Finding and Listing Front-door Adjustment Sets"](https://arxiv.org/abs/2210.05816) by Hyunchai Jeong, Jin Tian, and Elias Bareinboim.
 
 ## How to install
 
